@@ -1,21 +1,42 @@
-# Hi, I'm Vaishnavi 👋
+# Hi 👋, I'm Vaishnavi Patil
 
-## About Me
-🎓 IT Student
+🎓 Information Technology Student
 
-🌱 Learning Java & DSA
+## 🚀 About Me
 
-🚀 Passionate About Technology and Continuous Learning
+🌱 Currently learning Java, Python, DSA and Data Analytics
 
-## Skills
-- Java (Learning)
-- DSA (Learning)
-- Git & GitHub
+💻 Interested in Software Development and Data Analytics
 
-## Goals
-- Improve Programming Skills
-- Learn DSA
-- Build Real Projects
+📊 Exploring Data Analysis and Visualization
 
-## Connect With Me
-- LinkedIn: Add Your LinkedIn Profile Link Here
+💡 Passionate about technology and problem-solving
+
+🎯 Aspiring Software Developer
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+* Java
+* Python
+* C
+* DSA
+
+### Tools & Technologies
+
+* Git
+* GitHub
+* Google Colab
+
+### Database
+
+* SQL
+* MySQL
+
+## 📫 Connect With Me
+
+🔗 LinkedIn: https://www.linkedin.com/in/vaishnavi-patil-1a50672b4
+
+
+⭐ Thanks for visiting my GitHub profile!
